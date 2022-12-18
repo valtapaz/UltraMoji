@@ -5,7 +5,7 @@ A fan-made font for the writing system of the Land of Light
 The alphabet of M-78, known as ウルトラ文字 or UltraMoji, is based phonetically on Japanese (which usually has a consonant component and a vowel component for each character), but its writing system splits the Japanese Kana into English-compatible symbols, making English use also possible. I wasn't able to find any fonts based on this language, so I decided to make my own.
 
 (Below image for reference; image copyright Tsuburaya Productions)
-![The Ultra alphabet](https://m-78.jp/wp-content/uploads/2021/07/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E6%96%87%E5%AD%97.jpg =500)
+![The Ultra alphabet](https://m-78.jp/wp-content/uploads/2021/07/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E6%96%87%E5%AD%97.jpg)
 
 Since Japanese does not include certain Roman letters (such as L or V), this font comes in two variants: 
  - M-78 Inochi, which uses self-made approximations of what these letters may look like. Most of these are preexisting letters with the same kinds of Dakuten (") or Handakuten (°) that separates the UltraMoji (and Japanese) letters T and D, although X had to be more custom, combining a K and an S into one symbol. 
